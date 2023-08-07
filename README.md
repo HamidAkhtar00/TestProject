@@ -1,2 +1,2 @@
 # TestProject
-netflix websites only for test project
+try to made netflix front end website.just for practice project
