@@ -317,3 +317,8 @@ footer .language-btn{
     }
 
 }
+@media(orientation:landscape) and (max-height:500px){
+    .header{
+        height: 90vmax;
+    }
+}
