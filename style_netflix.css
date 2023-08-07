@@ -50,6 +50,9 @@ nav button{
     border: 1px solid #fff;
     padding: 7px 10px;
 }
+.op{
+    background: #000;
+    color: #fff;
 .header-content{
     position: absolute;
     top: 50%;
